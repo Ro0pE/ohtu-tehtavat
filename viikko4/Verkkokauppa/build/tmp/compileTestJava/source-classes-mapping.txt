@@ -1,0 +1,4 @@
+ohtu/verkkokauppa/Varasto.java
+ ohtu.verkkokauppa.Varasto
+ohtu/verkkokauppa/KauppaTest.java
+ ohtu.verkkokauppa.KauppaTest
